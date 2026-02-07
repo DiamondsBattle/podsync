@@ -35,7 +35,7 @@ web_ui = true
   # Each channel must have a unique identifier (in this example "ID1").
   [feeds.ID1]
   # URL address of a channel, group, user, or playlist.
-  url = "https://www.youtube.com/@Faciledacces-io5ib"
+  url = "https://www.youtube.com/channel/UCufYNXG2Uf_9bBrVDf6BIvA"
 
   # The number of episodes to query each update (keep in mind, that this might drain API token)
   page_size = 50
