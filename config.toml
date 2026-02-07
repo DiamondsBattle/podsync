@@ -147,4 +147,4 @@ max_size = 50 # MB
 max_age = 30 # days
 max_backups = 7
 compress = true
-debug = false
+debug = true
