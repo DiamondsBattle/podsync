@@ -28,8 +28,6 @@ web_ui = true
 #   PODSYNC_TWITCH_API_KEY for Twitch (format: CLIENT_ID:CLIENT_SECRET)
 # Environment variables support multiple keys separated by spaces for API key rotation:
 #   export PODSYNC_YOUTUBE_API_KEY="key1 key2 key3"
-[tokens]
-youtube = "YOUTUBE_API_TOKEN" # YouTube API Key. See https://developers.google.com/youtube/registering_an_application
 
 # The list of data sources to be hosted by Podsync.
 # These are channels, users, playlists, etc.
