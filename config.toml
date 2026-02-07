@@ -53,6 +53,8 @@ web_ui = true
   # When set to true, podcasts indexers such as iTunes or Google Podcasts will not index this podcast
   private_feed = true
 
+  opml = true
+
 # Optional log config. If not specified logs to the stdout
 [log]
 filename = "podsync.log"
